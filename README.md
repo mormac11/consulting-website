@@ -1,6 +1,6 @@
-# Professional Consulting Website
+# EvolvedOps - Professional Consulting Website
 
-A modern, responsive consulting website built with HTML, CSS, and JavaScript featuring a corporate/bold design aesthetic.
+A modern, responsive consulting website for EvolvedOps built with HTML, CSS, and JavaScript featuring a corporate/bold design aesthetic.
 
 ## Features
 
@@ -50,7 +50,7 @@ Edit the CSS variables in `css/styles.css`:
 
 ### Updating Content
 
-- **Company Name**: Search for "ConsultPro" in `index.html` and replace
+- **Company Name**: Currently set to "EvolvedOps" - update in `index.html` if needed
 - **Contact Info**: Update address, phone, and email in the Contact section
 - **Services**: Modify the service cards in the Services section
 - **About Section**: Update text and statistics
